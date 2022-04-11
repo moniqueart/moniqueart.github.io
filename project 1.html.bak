@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html data-wf-domain="monique-design-00eea8.webflow.io" data-wf-page="622bd680e3ba65b9433dbb4e" data-wf-site="622a4c9ea7b24208b872fd5c">
+<head>
+	<meta charset="utf-8"/><title>Ideals: Living Life to the Fullest</title><meta content="Project 1">
+	<link href="website.css" rel="stylesheet" type="text/css"/>
+</head>
+<body class="body">
+	<div class="navbar w-nav">
+	<div class="nav w-container"><nav role="navigation" class="w-nav-menu">
+		<a href="home.html" class="w-nav-link">Home</a>
+		<a href="about.html" class="w-nav-link">About</a>
+	</nav>
+		<a href="home.html" class="nav-link">Monique Bravo</a>
+	</div>
+	</div>
+	<div class="main page">
+	<div class="section-page section">
+		<section class="titleblock">
+			<h1 class="title"> Ideals: Living Life to the Fullest </h1>
+			<p class="description"> Imagined movie poster </p>
+		</section>
+		<section class="container w-container">
+		<img src=	"works/Friendposter-1.jpg" loading="lazy" class="img-page" alt=""/>
+		</section>
+		<div class="buttons w-container">
+			<a href="Project 6.html" class="previous">&#8249;</a>
+			<a href="Project 2.html" class="next">&#8250;</a>
+		</div>
+	</div>
+	</div>
+	<div class="section-2">
+		<p class="text-block-2">By Monique Bravo 2022 ©</p>
+	</div>
+</body>
+</html>
