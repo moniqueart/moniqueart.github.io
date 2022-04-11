@@ -43,43 +43,43 @@
 	<div class="section">
 		<div id="grid">
 			<div class="pro-contain">
-				<a href="Project 1.html">
+				<a href="project 1.html">
 				<img src="works/friendposter.jpg" loading="lazy" alt="" class="project">
 				</a>
 				<p class="pro-text" src="works/friendposter.jpg">Movie Poster</p>
 			</div>
 			<div class="pro-contain">
-				<a href="Project 2.html">
+				<a href="project 2.html">
 				<img src="works/Spiderverse.jpg" loading="lazy" alt="" class="project">
 				</a>
 				<p class="pro-text">Spiderverse Poster/Brochure</p>
 			</div>
 			<div class="pro-contain">
-				<a href="Project 3.html">
+				<a href="project 3.html">
 				<img src="works/concept1.jpg" loading="lazy" alt="" class="project">
 				</a>
 				<p class="pro-text">Concept Art</p>
 			</div>
 			<div class="pro-contain">
-				<a href="Project 4.html">
+				<a href="project 4.html">
 				<img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/04e1ba0b-0c6f-4403-88a1-977f84b1cf05.gif?ClientID=vimeo-core-prod&Date=1649382824&Signature=1b981c342ceba274d0f5d5361e2b9064a76c9311" loading="lazy" alt="" class="project">
 				</a>
 				<p class="pro-text">Birthday Animation</p>
 			</div>
 			<div class="pro-contain">
-				<a href="Project 5.html">
+				<a href="project 5.html">
 				<img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/b81e0473-e07a-4b21-96f1-1860eb758e94.gif?ClientID=vimeo-core-prod&Date=1649382982&Signature=e788898a31dbd3c3750b7a634bd82866355d88bf" loading="lazy" alt="" class="project">
 				</a>
 				<p class="pro-text">Music Background Animation</p>
 			</div>
 			<div class="pro-contain">
-				<a href="Project 6.html">
+				<a href="project 6.html">
 				<img src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e4984c2d-f630-4e3b-a62d-6b655f2a58d9.gif?ClientID=vimeo-core-prod&Date=1649383057&Signature=9d93b8bbe17343bec7234b0870bccc2e9511cbb9" loading="lazy" alt="" class="project">
 				</a>
 				<p class="pro-text">Day Cycle Animation</p>
 			</div>
 			<div class="pro-contain">
-				<a href="Project 7.html">
+				<a href="project 7.html">
 				<img src="works/Echo walk cycle.gif" loading="lazy" alt="" class="project">
 				</a>
 				<p class="pro-text">Walk Cycle Animation</p>

@@ -167,6 +167,10 @@ p {
 	color: #ffede0;
 }
 
+.section-page {
+	background-color: ;
+}
+
 .page {
 	background-color: #15211f;
 }

@@ -24,7 +24,7 @@
 		<h1 class="title"> Echo Bloom Walk Cycle </h1>
 		<p class="description"> Animation </p>
 	</div>
-	<div class="section">
+	<div class="section-page section">
 		<div class="container w-container">
 			<img src="works/Echo walk cycle.gif" loading="lazy" class="img-page" alt=""/>
 		</div>

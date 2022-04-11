@@ -24,7 +24,7 @@
 		<h1 class="title"> Into the Animation Universe </h1>
 		<p class="description"> Imagined exhibition poster/brochure </p>
 	</div>
-	<div class="section">
+	<div class="section-page section">
 		<div class="container w-container">
 			<img src=	"works/Spiderverse.jpg" loading="lazy" class="img-page" alt=""/>
 		</div>
