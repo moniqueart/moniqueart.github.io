@@ -32,7 +32,7 @@
 		#face {
 			width: 35%;
 			float: left;
-			margin-right: 20px;
+			margin-right: 5%;
 		}
 		.contact {
 			width: 100%;
@@ -42,6 +42,47 @@
 		h2 {
 			color: #41b3a3;
 		}
+		
+		div {
+  overflow:hidden;
+}
+
+#face {    
+  animation: showup 7s 1;
+}
+
+#aboutme {
+  animation: reveal 7s 1;
+}
+
+#aboutme p {
+  animation: slidein 7s 1;
+}
+
+@keyframes showup {
+    0% {opacity:0;}
+    20% {opacity:1;}
+    80% {opacity:1;}
+    100% {opacity:1;}
+}
+
+@keyframes slidein {
+    0% { margin-left:-800px; }
+    20% { margin-left:-800px; }
+    35% { margin-left:0px; }
+    100% { margin-left:0px; }
+}
+
+@keyframes reveal {
+    0% {opacity:0;width:0px;}
+    20% {opacity:1;width:0px;}
+    30% {width:60%;}
+    80% {opacity:1;}
+    100% {opacity:1;width:60%;}
+}
+
+P { line-height: 1.5em;
+}
 	</style>
 </head>
 <body class="body"><div class="navbar w-nav"><div class="nav w-container"><nav role="navigation" class="w-nav-menu">
@@ -55,10 +96,12 @@
 	<div class="section wf-section">
 		<div class="info">
 			<img src="Art/Me.svg" id="face">
-			<p> I am a digital artist based in Winnipeg. I am currently a 4th year Fine Art student focusing on Graphic Design in the University of Manitoba. I like to keep myself versatile as an artist and work on a range of other areas such as illustration, animation, and video. <br><br>
+			<div id="aboutme">
+			<p> I am a digital artist based in Winnipeg. I am currently a 4th year Fine Art student focusing on Graphic Design in the University of Manitoba. I mainly work on illustration and animation but I also have experience with design and video. <br><br>
 			I worked at my local senior centre as a Videographer/Graphic Designer and helped them create their brand by making their organization logo and banners. I also helped increase their public engagement through videos that promote their organization, senior programs, and volunteer training. <br><br>
 			Currently, I’m focusing on independent learning and creating self-projects in order to break into the animation industry.
-			<p>
+			</div>
+			</p>
 		</div>
 		<div class="contact">
 				<h2>Contact Me:</h2>
